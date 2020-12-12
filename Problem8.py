@@ -1,10 +1,3 @@
-# To Do
-#
-# assignment
-# postfix unary expressions
-# 
-
-
 next_token = ''
 next_symbol = ''
 # dictionaries for symbol table

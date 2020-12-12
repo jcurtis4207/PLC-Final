@@ -1,5 +1,3 @@
-package Final;
-
 public class RDA {
     public static String nextToken;
     public static void main(String args[]){
